@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'iconfont';  /* Project id 3303157 */
+  src: url('//at.alicdn.com/t/font_3303157_0ujlbtmrng1o.woff2?t=1651840979490') format('woff2'),
+       url('//at.alicdn.com/t/font_3303157_0ujlbtmrng1o.woff?t=1651840979490') format('woff'),
+       url('//at.alicdn.com/t/font_3303157_0ujlbtmrng1o.ttf?t=1651840979490') format('truetype');
+}
+
+/* 引用图标的公共样式 */
+.iconfont {
+	font-family: "iconfont" !important;
+	font-size: 60rpx;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: #5699e7;
+}
+
+/* 引用图标 */
+.iconTodo:before {
+	content: "\e625";
+
+}
+
+.iconAction:before {
+	content: "\e649";
+}
+
+.iconHandle:before {
+	content: "\e663";
+}
+
+.iconCopy:before {
+	content: "\e60d";
+}
+
+.iconcommunication:before {
+	content: "\e7de";
+}
+
+.checkbox-filled:before {
+	content: '\e62c';
+}
+
+.rightIcon:before {
+	content: '\e68c';
+	
+}
+.schemaIcon:before {
+	content: '\e608';
+}
+.characterIcon:before{
+	content: '\e62e';
+}

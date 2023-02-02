@@ -1,0 +1,44 @@
+// 文字颜色
+$text1: rgba(0, 0, 0, 0.9) !default;
+$text2: rgba(0, 0, 0, 0.6) !default;
+$text3: rgba(0, 0, 0, 0.4) !default;
+$text4: rgba(0, 0, 0, 0.05) !default;
+
+// 主题色（高亮色）
+$highlight: #6aa2e4 !default;
+$sm-highlight: #525EF8 !default;
+
+// #ifdef STUDENT-MOBILE || STUDENT-MOBILE-WEIXIN || ENTERPRISE-MOBILE
+$cu-custom-height: 96rpx !default;
+// #endif
+
+// 背景色
+$back: #fafafa !default;
+$ep-back: #f8f8f9 !default;
+
+$main-color: #409EFF !default;
+
+
+// 按钮边框 --primary
+$linglupin-border-color: #ffa940;
+// 按钮背景 --primary
+$linglupin-background-color: #ffa940;
+// 按钮边框 --default
+$linglupin-default-border-color: #ffd591;
+// 按钮背景 --default
+$linglupin-default-background-color: #fff7e6;
+// 标题
+$linglupin-title-color: #ffa940;
+// a链接
+$linglupin-a-color: #ffa940;
+// 文字颜色
+$linglupin-font-color: #ffa940;
+// 表单 :focus
+$linglupin-border-focus-color: #ffa940;
+// 标签底色
+$linglupin-label-background-color: #fff7e6;
+// 标签边框色
+$linglupin-label-border-color: #fff7e6;
+// 背景色 --身份认证
+$linglupin-identity-background-color: #fff7e6;
+

@@ -1,0 +1,7 @@
+src/uni_modules
+build/*.js
+src/assets
+public
+dist
+.hbuilderx
+./node_modules/
